@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-08-01 11:21:30" Creator="Daniel" Comments="" ID="4788ec255973cdd8b7192d1f45a51df5">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-08-01 11:48:29" Creator="Daniel" Comments="" ID="ea966dd4d310314b73212d6fcb894b31">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
     <Library_Version>1.0.3.46</Library_Version>
@@ -34,7 +34,7 @@
       <Description/>
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
-      <URL/>
+      <URL>https://github.com/TBDFramework/ModuleInterface</URL>
       <Release_Notes/>
     </Description>
     <Destinations>
@@ -282,7 +282,7 @@
         <Path>module configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>497078741B1BBCF329D6F13E8D62A3BC</GUID>
+      <GUID>7D72D0E5AEA5A27D06A26B886144AAB0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -443,7 +443,7 @@
         <Path>channel\from string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>55B7C01D01D5465D98326820BD099384</GUID>
+      <GUID>ECD320C99FF8D7FBDD9E373A85B7ED28</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -618,7 +618,7 @@
         <Path>module configuration\get channels.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EF46E56AF8D347A1B2E070DAFF2CDC96</GUID>
+      <GUID>306763BF8AA87D1065264A10AD7EF9F3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -751,7 +751,7 @@
         <Path>runtime\process safe state.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C418BDC757A38CDFCC5610FDC68C51C0</GUID>
+      <GUID>D95B76F7B0554448853739DCFB820368</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -856,7 +856,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D6188D594A7DBBB7688F8D8A5C96DA6E</GUID>
+      <GUID>619C7997E265A6FA5FB93ED69C0E0A93</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -919,7 +919,7 @@
         <Path>runtime\read timing source name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6A384B15CD508E3C70605D175D4E36D4</GUID>
+      <GUID>8329B6FB3705E323F68F81739D527679</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1248,7 +1248,7 @@
         <Path>root configuration\Get Supported Targets.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E45835AB5E3AC3E9F7DE4391A743538C</GUID>
+      <GUID>BB5C8E71C8D1574FB3CBE4D29F2FD509</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
