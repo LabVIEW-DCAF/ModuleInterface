@@ -3,7 +3,7 @@
 <ProjectTemplate>
   <Title localize="yes">Tag Bus Module</Title>
   <Description localize="yes">Creates a sample tag bus module project containing a runtime and configuration class.</Description>
-  <Filters localize="yes">Sample Projects:Desktop</Filters>
+  <Filters localize="yes">TBDF:Modules</Filters>
   <Keywords localize="yes">tag;bus;module;framework;mapping;access;plugin</Keywords>
   <LocationPath>tag bus module sample project</LocationPath>
   <ProjectPath>Sample Tag Bus Module.lvproj</ProjectPath>
