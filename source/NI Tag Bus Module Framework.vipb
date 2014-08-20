@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-08-20 16:47:19" Creator="Daniel" Comments="" ID="161abf2791113e6a1991bf56cfa91a2a">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-08-20 16:52:42" Creator="Daniel" Comments="" ID="6dc9faeebc3cfa417aafa6dc3df3c83d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>1.0.3.46</Library_Version>
+    <Library_Version>1.0.3.47</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\release</Library_Output_Folder>
+    <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
     <Company_Name>National Instruments</Company_Name>
     <Library_Summary/>
     <Library_License>BSD 2-clause</Library_License>
