@@ -9,10 +9,10 @@
 Invalid Execution Setting
 </nierror>
 <nierror code="538301">
-
+Unsupported channel classification
 </nierror>
 <nierror code="538302">
-Configuration could not be loaded.
+Configuration could not be loaded
 </nierror>
 <nierror code="538303">
 Configuration validation failed
@@ -21,27 +21,27 @@ Configuration validation failed
 Asynchronous component timeout
 </nierror>
 <nierror code="538305">
-An abstract parent method was called which does not contain an implementation.
+An abstract parent method was called which does not contain an implementation
 </nierror>
 <nierror code="538306">
-The runtime object for the specified configuration is not supported on this target.
+The runtime object for the specified configuration is not supported on this target
 </nierror>
 <nierror code="538308">
-Unsupported target.
+Unsupported target
 </nierror>
 <nierror code="538311">
-That property is already set.
+That property is already set
 </nierror>
 <nierror code="538312">
-Generic Module Error. Category: Unknown
+Generic Module Error -- Category: Unknown
 </nierror>
 <nierror code="538313">
-Generic Module Error. Category: Trivial
+Generic Module Error -- Category: Trivial
 </nierror>
 <nierror code="538314">
-Generic Module Error. Category: Recoverable
+Generic Module Error -- Category: Recoverable
 </nierror>
 <nierror code="538315">
-Generic Module Error. Category: Critical
+Generic Module Error -- Category: Critical
 </nierror>
 </nidocument>
