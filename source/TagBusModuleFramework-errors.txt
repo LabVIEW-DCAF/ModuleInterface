@@ -26,19 +26,22 @@ An abstract parent method was called which does not contain an implementation.
 <nierror code="538306">
 The runtime object for the specified configuration is not supported on this target.
 </nierror>
-<nierror code="538307">
-
-</nierror>
 <nierror code="538308">
 Unsupported target.
 </nierror>
-<nierror code="538309">
-
-</nierror>
-<nierror code="538310">
-
-</nierror>
 <nierror code="538311">
 That property is already set.
+</nierror>
+<nierror code="538312">
+Generic Module Error. Category: Unknown
+</nierror>
+<nierror code="538313">
+Generic Module Error. Category: Trivial
+</nierror>
+<nierror code="538314">
+Generic Module Error. Category: Recoverable
+</nierror>
+<nierror code="538315">
+Generic Module Error. Category: Critical
 </nierror>
 </nidocument>
