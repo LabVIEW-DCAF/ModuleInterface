@@ -77,6 +77,9 @@
 		<Item Name="channel" Type="Folder">
 			<Item Name="TBM channel.lvclass" Type="LVClass" URL="../channel/TBM channel.lvclass"/>
 		</Item>
+		<Item Name="FPGA manager" Type="Folder">
+			<Item Name="FPGA manager.lvlib" Type="Library" URL="../FPGA manager/FPGA manager.lvlib"/>
+		</Item>
 		<Item Name="module configuration" Type="Folder">
 			<Item Name="TBM module configuration.lvclass" Type="LVClass" URL="../module configuration/TBM module configuration.lvclass"/>
 		</Item>
