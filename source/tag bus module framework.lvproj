@@ -83,6 +83,9 @@
 		<Item Name="module configuration" Type="Folder">
 			<Item Name="TBM module configuration.lvclass" Type="LVClass" URL="../module configuration/TBM module configuration.lvclass"/>
 		</Item>
+		<Item Name="plugin discovery singleton" Type="Folder">
+			<Item Name="class discovery singleton.lvlib" Type="Library" URL="../plugin discovery singleton/class discovery singleton.lvlib"/>
+		</Item>
 		<Item Name="root configuration" Type="Folder">
 			<Item Name="TBM configuration.lvclass" Type="LVClass" URL="../root configuration/TBM configuration.lvclass"/>
 		</Item>
@@ -149,6 +152,7 @@
 				<Item Name="Flip and Pad for Picture Control.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Flip and Pad for Picture Control.vi"/>
 				<Item Name="Font.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Icon API/lv_icon/Controls/Font.ctl"/>
 				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
+				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
 				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="Graphic.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Icon API/lv_icon/Controls/Graphic.ctl"/>
