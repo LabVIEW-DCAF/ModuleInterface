@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-09-16 13:29:00" Creator="Daniel" Comments="" ID="c66187fccd6e4714d345171bb57a5173">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-09-16 15:52:39" Creator="Daniel" Comments="" ID="81b2864becef843044d85b1893358fd3">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>1.0.4.48</Library_Version>
+    <Library_Version>1.0.4.49</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -324,7 +324,7 @@
         <Path>plugin discovery singleton\class discovery singleton.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E73FBB8262D6BD1B26199CC5D8ED0D31</GUID>
+      <GUID>11AD5B16248D9935B79A4629FB20945D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -485,7 +485,7 @@
         <Path>channel\from string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>208AF525261D14040C5DBAC547E03A45</GUID>
+      <GUID>E182B76264B215C058376AAEAA11B178</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -674,7 +674,7 @@
         <Path>module configuration\get supported channel classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>57CB95343471E15CA02256D9EF81DED3</GUID>
+      <GUID>0E489EF8C32783DE554901174A1FBE4D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -821,7 +821,7 @@
         <Path>runtime\throw generic error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AEFFA0E29B0656AE5D298929FAD465F0</GUID>
+      <GUID>97C0EFAC89B336A18A22EA8EE8E83BEC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -926,7 +926,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E194697D6988AB0FB3596EA04AA80C98</GUID>
+      <GUID>34B2D3DE5D7F434C8004AB00E16B77AD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -989,7 +989,7 @@
         <Path>runtime\read timing source name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>50ECF8CF2E6B583F8D182EE8044871B2</GUID>
+      <GUID>A55C11ECA6540C4EC9F87869395662C3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1332,7 +1332,7 @@
         <Path>root configuration\unwrap guid wrapped data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3DE200C04236FC097B5A6E9514222D8D</GUID>
+      <GUID>E1F03C8D7E36206E97517E31F984E7A0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
