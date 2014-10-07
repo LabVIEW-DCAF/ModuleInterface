@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-09-27 02:36:06" Creator="Daniel" Comments="" ID="2e74a1592dcbd251fa6773af1ae62284">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-10-06 19:03:02" Creator="Daniel" Comments="" ID="24ad0c4eda056c5cfb29f4a83db71a52">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>1.1.0.3</Library_Version>
+    <Library_Version>1.1.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/TBDFramework/ModuleInterface</URL>
-      <Release_Notes>Remove out of date sample project, added property to configuration which indicates a level of determinism.</Release_Notes>
+      <Release_Notes>replace allocate new data interface with get default data</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -153,9 +153,9 @@
         <Syncing_MNU_file/>
       </Controls_Palette_Information>
       <Functions_Palette_Information>
-        <Virtual_Palette_Base_Path>Functions</Virtual_Palette_Base_Path>
-        <Palette_Disk_Base_Path>&lt;menus&gt;\Categories</Palette_Disk_Base_Path>
-        <Syncing_MNU_file/>
+        <Virtual_Palette_Base_Path>Functions\Addons</Virtual_Palette_Base_Path>
+        <Palette_Disk_Base_Path>&lt;vi.lib&gt;\addons</Palette_Disk_Base_Path>
+        <Syncing_MNU_file>&lt;Not A Path&gt;</Syncing_MNU_file>
       </Functions_Palette_Information>
       <Apply_Short_Names_to_VI_Titles>false</Apply_Short_Names_to_VI_Titles>
       <Apply_Short_Names_to_VI_Titles_2>false</Apply_Short_Names_to_VI_Titles_2>
@@ -192,7 +192,7 @@
   <Library_Palette_Definition>
     <Functions_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
-      <Name>Tag Bus Data</Name>
+      <Name>TBM Module Interface</Name>
       <View_Format>Icons</View_Format>
       <Size>
         <Height_Row>1</Height_Row>
@@ -265,7 +265,7 @@
         <Path>root configuration\error generator.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2CCD182E232945C662ED54D417CB2A97</GUID>
+      <GUID>B68B246A10163679BA76278532D253A9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -440,7 +440,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2DC047D99F5CCB81E7F95055BDF01A75</GUID>
+      <GUID>8671ABFB4B5AA8B03D03505F4AF50211</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -629,7 +629,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1532647F40A937AE8898B3DED5BD448C</GUID>
+      <GUID>E6E1F83E197E7FC6BB57F7812A768EF2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -832,7 +832,7 @@
         <Path>module configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D136C43A4EF9C72CF8E90EB7D34BFEA2</GUID>
+      <GUID>7274A743714F27B10A12C2B5269A0BE6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1007,7 +1007,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2619D95E8AFE1D0609157349015B31A2</GUID>
+      <GUID>F1C2AAE5CB1AD238E1D6EE22DF9153A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1322,7 +1322,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>78EC598AFF08519BE26B95D9CC3A8E69</GUID>
+      <GUID>55BF161FB0E335461E2ABA83ADD7F3CD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1707,7 +1707,7 @@
         <Path>root configuration\get major and minor version string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>200038FAE190A3EF378DB42D02D6C93D</GUID>
+      <GUID>EE2BB4AA52A30B4A48769FFB54785B3F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1980,7 +1980,7 @@
         <Path>module configuration\dynamic mapping.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2584A668271E448EF4D9EE12AA51A38</GUID>
+      <GUID>754D98BF51F6C26EB30D00A02E2449DF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2169,7 +2169,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7ED86020708EEC37F46D8470DEE75A4B</GUID>
+      <GUID>8FD7E26E336DA6B28931C9DC29EA9910</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2358,7 +2358,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>56E2CEAB9E672CC3FED3B0720E7F3003</GUID>
+      <GUID>4E4CABB10D521C6467500EE3BB3675D3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
