@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-12 18:56:23" Creator="Daniel" Comments="" ID="62f9cb9ee5672701a4ebdf8e0437804c">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-13 12:08:22" Creator="Daniel" Comments="" ID="79d3a31e143a2dfa6e773e4365548a8e">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>1.1.2.3</Library_Version>
+    <Library_Version>1.1.2.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -265,7 +265,7 @@
         <Path>root configuration\error generator.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E76852473D541CD051C33CBC2D09FB7D</GUID>
+      <GUID>A400DCA3959FF281861F8A1098708E15</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -440,7 +440,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>60609FC6DA229847E90DF500707F176D</GUID>
+      <GUID>223C714ECADD87B3FE307CDE367C967B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -629,7 +629,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>372541E3C5704FA198A50B21B52F07A9</GUID>
+      <GUID>1A91DFC09E3E321D4C7F3D3453C23F06</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -832,7 +832,7 @@
         <Path>module configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>803CA76ED6E1ABFC253D0222056E1FAE</GUID>
+      <GUID>394E2003496CDBCF233F92BFFB77FEDB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1007,7 +1007,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF587411B3A157AC08BCF9FEE45A15C1</GUID>
+      <GUID>1434F9C5DBAFADB0647128B851F93C5F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1322,7 +1322,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6942B7FC4135AC1199D9EF6F1723CF9F</GUID>
+      <GUID>33935B70B6054A5D2A6DB529B2B9053B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1707,7 +1707,7 @@
         <Path>root configuration\get major and minor version string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D8F0CE84D50B57F11947BAE472CBA4C0</GUID>
+      <GUID>F5138CB79CBA5F7EAE4EBE89213C0922</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1980,7 +1980,7 @@
         <Path>module configuration\dynamic mapping.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3BB1376B1DA8D479DBFCCE3DD8EAA59B</GUID>
+      <GUID>D703E23EC754EE57436A84E90EC32B90</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2169,7 +2169,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E42A195BF9BC146661C33CEA40E9A5D0</GUID>
+      <GUID>A560418CB046AB8E39573A9A4286EAE1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2358,7 +2358,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>209FC635529335A19B838C2896889C2C</GUID>
+      <GUID>757C92D96D54CC4457B2268818F96453</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
