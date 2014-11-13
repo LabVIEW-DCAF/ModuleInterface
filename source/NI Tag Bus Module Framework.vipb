@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-10-08 18:19:02" Creator="Daniel" Comments="" ID="a3d01ad417079d1dd1bd08d5d88075a9">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-12 18:44:19" Creator="Daniel" Comments="" ID="f0d903181950342e90fa637c67623e43">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>1.1.1.5</Library_Version>
+    <Library_Version>1.1.2.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/TBDFramework/ModuleInterface</URL>
-      <Release_Notes>Reinitialize fpga manager on every run</Release_Notes>
+      <Release_Notes>reduce case sensitivity in class loader</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -265,7 +265,7 @@
         <Path>root configuration\error generator.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EB6C41A0134E22187749E3EC03BDF48C</GUID>
+      <GUID>4B221381E9D986756A9BE8FFD070F903</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -440,7 +440,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D424374B226AAE71BBFA48181D545F5B</GUID>
+      <GUID>D002A2D2A62C8CBFCF64846773507590</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -629,7 +629,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F131F38A444E15B26EFBB31CE92139DE</GUID>
+      <GUID>AE08C08F03B969E4F4FD4D69E3E39CB1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -832,7 +832,7 @@
         <Path>module configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5F7E833381D88B6246D593764B2BBCBF</GUID>
+      <GUID>0C02F467B5EB07B53893AC6E47A1A834</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1007,7 +1007,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6C53DDD29F43A7C00279CE4A980D41EE</GUID>
+      <GUID>B61A53746EF94C9FCB1BC8865F7E81B7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1322,7 +1322,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>815D84BEB28F71E68C4C1E191B31A502</GUID>
+      <GUID>AC91D11740066E57868E478BA7C37C2C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1707,7 +1707,7 @@
         <Path>root configuration\get major and minor version string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E0A025A5C48A8F050FFE5E1ACBB8D459</GUID>
+      <GUID>890D51F5B7B99F99A034A7ED9BA8DB2B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1980,7 +1980,7 @@
         <Path>module configuration\dynamic mapping.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D81888C30153B8017D473EC0E6F7025B</GUID>
+      <GUID>7571A83EC4AE38CD384A9884309B1324</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2169,7 +2169,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8E6C60DA08DD7FF28F6B278559FC1D15</GUID>
+      <GUID>DE854D99A042E480103F00CD72FD153E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -2358,7 +2358,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6712C508DA709E845EF8F526C4ECB046</GUID>
+      <GUID>A8F3C1151235167149A4699D8D599971</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
