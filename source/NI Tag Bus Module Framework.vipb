@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-21 17:00:44" Creator="Daniel" Comments="" ID="ab97e7b19a3cc0b4b68d2c8652a0d27c">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-21 17:02:50" Creator="Daniel" Comments="" ID="236e77f99a3af6bb530f25a632c5546e">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>2.0.0.1</Library_Version>
+    <Library_Version>2.0.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
