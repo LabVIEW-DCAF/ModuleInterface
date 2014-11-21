@@ -30,14 +30,7 @@
 		<Item Name="validate mod cfg.vi" Type="VI" URL="../validate mod cfg.vi"/>
 	</Item>
 	<Item Name="Root Cfg" Type="Folder">
-		<Item Name="proptest_instancecount.vi" Type="VI" URL="../proptest_instancecount.vi"/>
-		<Item Name="proptest_runtime class.vi" Type="VI" URL="../proptest_runtime class.vi"/>
 		<Item Name="proptest_supportedtargets.vi" Type="VI" URL="../proptest_supportedtargets.vi"/>
 		<Item Name="serialization test.vi" Type="VI" URL="../serialization test.vi"/>
-		<Item Name="test enumerate.vi" Type="VI" URL="../test enumerate.vi"/>
-		<Item Name="test guid wrap and unwrap.vi" Type="VI" URL="../test guid wrap and unwrap.vi"/>
-		<Item Name="test tbm module metadata.vi" Type="VI" URL="../test tbm module metadata.vi"/>
-		<Item Name="test validation.vi" Type="VI" URL="../test validation.vi"/>
-		<Item Name="test wrap and unwrap.vi" Type="VI" URL="../test wrap and unwrap.vi"/>
 	</Item>
 </Library>
