@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-25 14:59:28" Creator="Daniel" Comments="" ID="cd1985674d177023c18160ffe1b37848">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-26 11:29:55" Creator="Daniel" Comments="" ID="89cda10ad1e07a72024b64b59fc944c9">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>2.0.2.3</Library_Version>
+    <Library_Version>2.0.2.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -252,7 +252,7 @@
         <Path>Configurations</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8CD43C874D11053336D0CE4D4C4FFBFC</GUID>
+      <GUID>D6B7192DDFD3C3D5ABC76BEFA11C437D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -427,7 +427,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8F658F67926D3B739056701C85043D00</GUID>
+      <GUID>0CDE255F989582FE50DB94A47716E12C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -602,7 +602,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2D7A2BB47B58357363483D2A4FFA33F3</GUID>
+      <GUID>38A5DBA4D8834243B57A970014E435A1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -707,21 +707,7 @@
         <Path>root configuration\to string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Read UID.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>&lt;vi.lib&gt;\NI\CEF\CEF_TreeControl\serializable configuration\Read UID.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>0806000E42A87BDC7FDF5DF33DDE78F7</GUID>
+      <GUID>04186F1447336872402325A2469873D4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -896,7 +882,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BBEFC7EB6E1CAC344780BBB83DCF2892</GUID>
+      <GUID>ED3A9C5B495FDAE8BE818C3BB46DA70B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1211,7 +1197,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E4E11A06E5C0F5C26ABB6AF7D55C837F</GUID>
+      <GUID>9DA2743AC104256FCB6E893F006E45E7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1358,7 +1344,7 @@
         <Path>root configuration\list all targets.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C4A94A2FF647CE661D45C76330B1E51C</GUID>
+      <GUID>F8F91EE8AFA56D2C8BF079E1A49EC053</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1589,7 +1575,7 @@
         <Path>module configuration\dynamic mapping.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>93E913C6F4C09C665FA7851A20BB63F5</GUID>
+      <GUID>4BDA46B40A4229CBE86040295CACE2BD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1778,7 +1764,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6CAA1CDDDBB375DB9BE0D91927EF597D</GUID>
+      <GUID>E11BB1B7AB7BD344EA55D24483BC64B0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1967,7 +1953,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>55C232F7C63E4B58481DC8190A9F28EF</GUID>
+      <GUID>C5DC484A99B0108D96F854DC1748671F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1991,20 +1977,6 @@
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>execution class name.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>1</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>&lt;vi.lib&gt;\NI\CEF\CEF_TreeControl\serializable configuration\execution class name.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>from string.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -2014,20 +1986,6 @@
         </Position>
         <Icon>00000000</Icon>
         <Path>channel\from string.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>read metadata property.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>3</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>&lt;vi.lib&gt;\NI\CEF\CEF_TreeControl\serializable configuration\read metadata property.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2058,7 +2016,7 @@
         <Path>module configuration\validate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>83A0BF54B01EEDA105B3D0665860AF63</GUID>
+      <GUID>D918D15E6317CE3A2865A590626C4113</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
