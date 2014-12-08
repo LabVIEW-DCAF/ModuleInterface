@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-11-26 11:29:55" Creator="Daniel" Comments="" ID="89cda10ad1e07a72024b64b59fc944c9">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-12-08 17:05:52" Creator="Daniel" Comments="" ID="1575c07b8dcc33fed227039454a097a5">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>2.0.2.5</Library_Version>
+    <Library_Version>2.0.3.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -252,7 +252,7 @@
         <Path>Configurations</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D6B7192DDFD3C3D5ABC76BEFA11C437D</GUID>
+      <GUID>87232E9D808F73FC2B5DE7A27122BB8A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -427,7 +427,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0CDE255F989582FE50DB94A47716E12C</GUID>
+      <GUID>C051EAE3B15F5949D02C7D9C635D8A87</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -602,7 +602,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38A5DBA4D8834243B57A970014E435A1</GUID>
+      <GUID>820935E00854CBB4DF05CB0FD06E76DA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -707,7 +707,7 @@
         <Path>root configuration\to string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04186F1447336872402325A2469873D4</GUID>
+      <GUID>025BFAE2306EEEFA1A277C9E8A40917F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -882,7 +882,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ED3A9C5B495FDAE8BE818C3BB46DA70B</GUID>
+      <GUID>44D4CC87968B6CE3D67C0C9C3B8D7463</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1197,7 +1197,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9DA2743AC104256FCB6E893F006E45E7</GUID>
+      <GUID>A6391767421DC0DAE57070847ADBFB44</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1344,7 +1344,7 @@
         <Path>root configuration\list all targets.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F8F91EE8AFA56D2C8BF079E1A49EC053</GUID>
+      <GUID>7ACD9B61F6C4495892D73BBBED19285F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1575,7 +1575,7 @@
         <Path>module configuration\dynamic mapping.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4BDA46B40A4229CBE86040295CACE2BD</GUID>
+      <GUID>CF33CC795817FEF5A634ED0C1FE27DDC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1764,7 +1764,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E11BB1B7AB7BD344EA55D24483BC64B0</GUID>
+      <GUID>FD7AC5D75B750399BE5AE945A2D797BF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1953,7 +1953,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C5DC484A99B0108D96F854DC1748671F</GUID>
+      <GUID>F814C47D5B5F7DB70BB692C4AE086864</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1999,7 +1999,7 @@
           <Column>2</Column>
         </Position>
         <Icon>00000000</Icon>
-        <Path>&lt;vi.lib&gt;\NI\CEF\CEF_TreeControl\serializable configuration\to string.vi</Path>
+        <Path>channel\to string.vi</Path>
         <VI_Title/>
       </Items_Data>
       <Items_Data>
@@ -2016,7 +2016,7 @@
         <Path>module configuration\validate.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D918D15E6317CE3A2865A590626C4113</GUID>
+      <GUID>074723029A517BC2FBF9BCB48FD6E368</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
