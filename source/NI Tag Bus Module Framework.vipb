@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-12-08 20:10:49" Creator="Daniel" Comments="" ID="9dffadb87a5bbf94fb093ef12ee6a662">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-12-08 21:41:00" Creator="Daniel" Comments="" ID="e80e61d4c44ebb349d095e1612956518">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>2.0.3.6</Library_Version>
+    <Library_Version>2.0.3.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -252,7 +252,7 @@
         <Path>root configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4E1C2B1425AE5D31B58E523AF24E6A3F</GUID>
+      <GUID>C60E8F85F06C52D17BE51DC91230C39F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -427,7 +427,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3D7D408659A654616B33E51E9234FCA5</GUID>
+      <GUID>1AA63F85B89A49CF532C30717EB60D75</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -602,7 +602,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F73C2FCDB065271A548B0D3DEA8E23D7</GUID>
+      <GUID>D710D3E86E24AFA1D4FB9D36BA144CC5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -777,7 +777,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5EBD0D5D2C470A8DD92ED7C80473F126</GUID>
+      <GUID>E3C11876BA0A2037E6C9744D5510F541</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1092,7 +1092,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>325EDDD5EF69BB88E40CDABE2D5B0E18</GUID>
+      <GUID>E38EF7E24F8AEB89C4E7E778B1A51B1C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1281,7 +1281,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F62CC2076EB8514D990E6B27E0AFB491</GUID>
+      <GUID>3591393E58F22EB89A6EF8DE2290535B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1470,7 +1470,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E28F32CC65286C8C9F81DB8737EB3B96</GUID>
+      <GUID>E5FABE8F5BAF8F10D9BDC9D22DF4E947</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1701,7 +1701,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C68B9253F7DE58420B3471DAC2190450</GUID>
+      <GUID>3C9D37258C56F1315A00AB18ABBAD50E</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
