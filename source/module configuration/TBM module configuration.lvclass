@@ -115,6 +115,21 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
 		</Item>
+		<Item Name="execution class name" Type="Property Definition">
+			<Property Name="NI.ClassItem.Property.LongName" Type="Str">execution class name</Property>
+			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">execution class name</Property>
+			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
+			<Item Name="execution class name.vi" Type="VI" URL="../execution class name.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;(!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-0````]0:8BF9X6U;7^O)'.M98.T!$Z!=!!?!!!C)&amp;2#43"N&lt;W2V&lt;'5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!29W^O:GFH&gt;8*B&gt;'FP&lt;C"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!$Z!=!!?!!!C)&amp;2#43"N&lt;W2V&lt;'5A9W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!19W^O:GFH&gt;8*B&gt;'FP&lt;C"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.MustOverride" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="core overrides" Type="Folder">
 		<Item Name="from string.vi" Type="VI" URL="../from string.vi">
