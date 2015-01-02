@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2014-12-09 13:24:27" Creator="Daniel" Comments="" ID="746ab2e5d9dc8663500fc32aab083cd2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2015-01-02 16:59:04" Creator="Daniel" Comments="" ID="35287abad21f8b88ed7af9d86047c2af">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>2.0.3.8</Library_Version>
+    <Library_Version>2.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -25,7 +25,7 @@
       <Pre-Build_VI/>
       <Post-Build_VI/>
       <Pre-Install_VI/>
-      <Post-Install_VI>Post-Install Custom Action.vi</Post-Install_VI>
+      <Post-Install_VI/>
       <Pre-Uninstall_VI/>
       <Post-Uninstall_VI/>
     </Custom_Action_VIs>
@@ -36,7 +36,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/TBDFramework/ModuleInterface</URL>
-      <Release_Notes>Moved root configuration module functionality into CEF</Release_Notes>
+      <Release_Notes>Remove "recover" input from classify errors.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -111,6 +111,56 @@
         <Password/>
         <Locked_Only>false</Locked_Only>
       </Password_Overrides>
+      <Password_Overrides>
+        <Path>channel/TBM channel.lvclass</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>channel</Path>
+        <Password/>
+        <Locked_Only>true</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>FPGA manager/FPGA manager.lvlib</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>FPGA manager</Path>
+        <Password/>
+        <Locked_Only>true</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>module configuration/TBM module configuration.lvclass</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>module configuration</Path>
+        <Password/>
+        <Locked_Only>true</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>root configuration/TBM configuration.lvclass</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>root configuration</Path>
+        <Password/>
+        <Locked_Only>true</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>runtime/TBM module execution interface.lvclass</Path>
+        <Password/>
+        <Locked_Only>false</Locked_Only>
+      </Password_Overrides>
+      <Password_Overrides>
+        <Path>runtime</Path>
+        <Password/>
+        <Locked_Only>true</Locked_Only>
+      </Password_Overrides>
       <Namespace_Overrides>
         <Path>.</Path>
         <Namespace_Type>Prefix</Namespace_Type>
@@ -124,6 +174,18 @@
       </Exclusions>
       <Exclusions>
         <Path>tests</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>channel/channel.mnu</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>module configuration/modcfg.mnu</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>root configuration/rootcfg.mnu</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>runtime/modrun.mnu</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>sample_code_license_terms_20141101.txt</License_Agreement_Filepath>
@@ -252,7 +314,7 @@
         <Path>root configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA328933AF56BC883765AF23FB9E2FA9</GUID>
+      <GUID>A319FB78AD28948BDD6F2A144F56D09B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -427,7 +489,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>18DE3E58A5B3CF5CA6C2342A83ADCE45</GUID>
+      <GUID>BC1C8B0ECBDA9F761CE53C907393EF65</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -602,7 +664,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8FDA948B84F304C7D43622D5576076C9</GUID>
+      <GUID>27CB1D163594E2C6EE362422B75C4AC1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -777,7 +839,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>820268B5CD0CE7EF1C532DEE480DDD77</GUID>
+      <GUID>CE8D05752332204659B2B8530F1FF50D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1092,7 +1154,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8B68D21A041C0733D678099A60507031</GUID>
+      <GUID>59121F2DBFDF8AFB5053E5BCB1645F4C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1281,7 +1343,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>757E87D49ECA5CB5767CA8F69C65AABA</GUID>
+      <GUID>B9F261D81FF68D7379BF76DAA4878EC2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1470,7 +1532,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>838AEEDF3E9856550536D57919A91E5E</GUID>
+      <GUID>6AA9FA686B921E2BD6D322A1B2CECED0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1701,7 +1763,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A07F5AAE9B24C56B7245B57ACD7D931F</GUID>
+      <GUID>0771C61588422D071F36B30113726CE3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
