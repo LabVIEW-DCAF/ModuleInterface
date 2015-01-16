@@ -1,4 +1,1 @@
-vi	build tools\BUILD_install dependencies tbm.vi
-vi	build tools\BUILD_uninstall tbm.vi
-vip	source\NI Tag Bus Module Framework.vipb
-vi	build tools\BUILD_install upload tbm.vi
+vipb	source\NI Tag Bus Module Framework.vipb	testinstall	upload=platypus
