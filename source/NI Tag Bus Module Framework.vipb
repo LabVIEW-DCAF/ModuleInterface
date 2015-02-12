@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2015-01-02 16:59:04" Creator="Daniel" Comments="" ID="35287abad21f8b88ed7af9d86047c2af">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2015-02-12 11:49:59" Creator="Daniel" Comments="" ID="8f94c073022b164148c6103661972c21">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm</Package_File_Name>
-    <Library_Version>2.1.0.2</Library_Version>
+    <Library_Version>2.1.1.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -175,18 +175,6 @@
       <Exclusions>
         <Path>tests</Path>
       </Exclusions>
-      <Exclusions>
-        <Path>channel/channel.mnu</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>module configuration/modcfg.mnu</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>root configuration/rootcfg.mnu</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>runtime/modrun.mnu</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>sample_code_license_terms_20141101.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
@@ -314,7 +302,7 @@
         <Path>root configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A319FB78AD28948BDD6F2A144F56D09B</GUID>
+      <GUID>93F4B358C2319CDD8A880020DD08CFF4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -489,7 +477,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\dictionary\create data dictionary.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BC1C8B0ECBDA9F761CE53C907393EF65</GUID>
+      <GUID>1D15EF16C3842792BA27C72B4B845802</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -664,7 +652,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>27CB1D163594E2C6EE362422B75C4AC1</GUID>
+      <GUID>25BC49032D1852DF1BE95340F94AADCA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -839,7 +827,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CE8D05752332204659B2B8530F1FF50D</GUID>
+      <GUID>912C89B462C597DED38548A4A4681B09</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1154,7 +1142,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\count types.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>59121F2DBFDF8AFB5053E5BCB1645F4C</GUID>
+      <GUID>852C0686A757C5828A3A8C54E0D40817</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1343,7 +1331,7 @@
         <Path>runtime\close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B9F261D81FF68D7379BF76DAA4878EC2</GUID>
+      <GUID>EBC3B63745EB762934B204C4827FE8D0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1532,7 +1520,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\table\construct data interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6AA9FA686B921E2BD6D322A1B2CECED0</GUID>
+      <GUID>7EE14ABF20BB1EF3C3547D3F131774C2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1763,7 +1751,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0771C61588422D071F36B30113726CE3</GUID>
+      <GUID>3683DD1CEDD71369CBC3B565EA384CD3</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
