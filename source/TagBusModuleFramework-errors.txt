@@ -44,4 +44,7 @@ Generic Module Error -- Category: Recoverable
 <nierror code="538315">
 Generic Module Error -- Category: Critical
 </nierror>
+<nierror code="538316">
+FPGA Manager: Cannot Cache this invalid bitfile
+</nierror>
 </nidocument>
