@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2016-08-16 14:36:14" Creator="Daniel" Comments="" ID="591cc3d7776ed4fca631d1f7d4c56f4d">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2016-12-12 13:30:20" Creator="Daniel" Comments="" ID="aa75d5996186dee2c32a63e9ae4db5b8">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_module_interface</Package_File_Name>
-    <Library_Version>2.1.1.2</Library_Version>
+    <Library_Version>2.2.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -37,7 +37,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/TBDFramework/ModuleInterface</URL>
-      <Release_Notes>Added syslog tracing function for use in modules.</Release_Notes>
+      <Release_Notes>This is the version for  DCAF 1.1</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -303,7 +303,7 @@
         <Path>root configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E759DAD9642C9D52931BD850A2578128</GUID>
+      <GUID>6917C171FD0324717209500626DB74AB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -436,7 +436,7 @@
         <Path>channel\from string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1D7A3CA06660B73117FC0F5EB54B3FB8</GUID>
+      <GUID>1B530088F689B0F025DEACF3368B1C12</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -611,7 +611,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A36735C74E96886BD1629B5ACFA2859B</GUID>
+      <GUID>1022A3B7131BAF75C7803984F5A0940F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -786,7 +786,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>73669B00AF7E97611CEC1AD110BF48D6</GUID>
+      <GUID>CD14F3DDFCA9BB6E41885769147014D1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -821,7 +821,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\find tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>594A1020F9B3AA769ACB3FD2FCA5AC55</GUID>
+      <GUID>1730EDC9BE5A4A92C3D7DB2C618FB8FB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1024,7 +1024,7 @@
         <Path>runtime\write module trace msg.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>71D41BE64545EA8CD04BFCDDCCBDC3C2</GUID>
+      <GUID>C189118AD4D34D9EEC5A52F36C39FAA4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1045,7 +1045,7 @@
         <Synchronyze_with_Directory>true</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>FB0112FAD50C85DAE23F9074B0E600B0</GUID>
+      <GUID>061BA2B7787B7B6B82D01C0C2ED20144</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1276,7 +1276,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>041A93AFBD15A4006EC629714942C78B</GUID>
+      <GUID>D80B8C6AC2FD53EFD32B9CED2E5122FD</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
