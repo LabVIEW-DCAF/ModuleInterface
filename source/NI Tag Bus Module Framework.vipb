@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2016-12-12 13:30:20" Creator="Daniel" Comments="" ID="aa75d5996186dee2c32a63e9ae4db5b8">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2017-02-20 14:36:19" Creator="Daniel" Comments="" ID="abea3c805c725a603aaf3f7a10e83ee4">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_module_interface</Package_File_Name>
-    <Library_Version>2.2.0.1</Library_Version>
+    <Library_Version>2.2.1.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -37,7 +37,8 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>https://github.com/TBDFramework/ModuleInterface</URL>
-      <Release_Notes>This is the version for  DCAF 1.1</Release_Notes>
+      <Release_Notes>This is the version for  DCAF 1.1
+-Cleaned up syslog trace message output (https://github.com/LabVIEW-DCAF/ModuleInterface/issues/26)</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -303,7 +304,7 @@
         <Path>root configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6917C171FD0324717209500626DB74AB</GUID>
+      <GUID>A6804E47673F4FDB9FEDC6E314217FA1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -436,7 +437,7 @@
         <Path>channel\from string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1B530088F689B0F025DEACF3368B1C12</GUID>
+      <GUID>399D27B775924A7F8B4A263952D7C46D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -611,7 +612,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1022A3B7131BAF75C7803984F5A0940F</GUID>
+      <GUID>84091F9B6008CB6620B1345AE2DC1E82</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -786,7 +787,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD14F3DDFCA9BB6E41885769147014D1</GUID>
+      <GUID>EB3818F107AE02CA10AC19153D40D39D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -821,7 +822,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\find tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1730EDC9BE5A4A92C3D7DB2C618FB8FB</GUID>
+      <GUID>7222EFFB7F99C4CA06ECA644662FB53C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1024,7 +1025,7 @@
         <Path>runtime\write module trace msg.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C189118AD4D34D9EEC5A52F36C39FAA4</GUID>
+      <GUID>DE48079D1D7E65616189518B30151DCD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1045,7 +1046,7 @@
         <Synchronyze_with_Directory>true</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>061BA2B7787B7B6B82D01C0C2ED20144</GUID>
+      <GUID>010D649DCD683D93BF9E76D6438A7CE8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1276,7 +1277,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D80B8C6AC2FD53EFD32B9CED2E5122FD</GUID>
+      <GUID>AFB69E2A5A41C3619415F46D65DF4E3D</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
