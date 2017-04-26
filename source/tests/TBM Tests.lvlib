@@ -10,94 +10,94 @@
 	<Item Name="chan" Type="Folder">
 		<Item Name="channel tofromstring.lvtest" Type="TestItem" URL="../channel tofromstring.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:channel tofromstring.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">13AF0EE4-30B6-4821-0FA3-BB123201232F</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">6CBA52F6-CA95-ADBF-8C06-27E97B8B2A73</Property>
 		</Item>
 		<Item Name="channel tofromstring.vi" Type="VI" URL="../channel tofromstring.vi"/>
 		<Item Name="test channel create.lvtest" Type="TestItem" URL="../test channel create.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test channel create.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">6878B2DC-A929-5EBE-41F5-FEF1DD32D47B</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">2318C1F2-55C7-11B1-542A-E9063C148FF1</Property>
 		</Item>
 		<Item Name="test channel create.vi" Type="VI" URL="../test channel create.vi"/>
 		<Item Name="test filter by class.lvtest" Type="TestItem" URL="../test filter by class.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test filter by class.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">40FF991D-BFF7-3763-CE11-BBCBE38D2C16</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">0F9ABEFB-D5A2-2E5F-3F0F-BA8E9F996612</Property>
 		</Item>
 		<Item Name="test filter by class.vi" Type="VI" URL="../test filter by class.vi"/>
 		<Item Name="test filter by name.lvtest" Type="TestItem" URL="../test filter by name.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test filter by name.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">50C03D57-0B46-9869-0DEE-13F48AA51A40</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">D2907B1C-8BA5-F24C-8BD8-0058802A805C</Property>
 		</Item>
 		<Item Name="test filter by name.vi" Type="VI" URL="../test filter by name.vi"/>
 		<Item Name="test filter by type.lvtest" Type="TestItem" URL="../test filter by type.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test filter by type.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">C2D79FA2-280A-7FCC-6991-F69784452109</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">1983894D-9B59-58C7-B312-BC63C3C5BA99</Property>
 		</Item>
 		<Item Name="test filter by type.vi" Type="VI" URL="../test filter by type.vi"/>
 		<Item Name="test get channel group.lvtest" Type="TestItem" URL="../test get channel group.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test get channel group.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">8BF94B04-27B6-04E9-D3AC-1174CBB1C6B3</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">A6C92784-49D9-BAD4-E2EE-675C3B46C92B</Property>
 		</Item>
 		<Item Name="test get channel group.vi" Type="VI" URL="../test get channel group.vi"/>
 		<Item Name="test sort channels.lvtest" Type="TestItem" URL="../test sort channels.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test sort channels.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">BB7DFD4A-5AF8-23F0-4F69-86A9DB089D97</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">815DD633-BD57-3A22-9DA6-C89CC0C17640</Property>
 		</Item>
 		<Item Name="test sort channels.vi" Type="VI" URL="../test sort channels.vi"/>
 	</Item>
 	<Item Name="exec" Type="Folder">
 		<Item Name="determine execution settings.lvtest" Type="TestItem" URL="../determine execution settings.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:determine execution settings.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">2FAA509E-5F3E-94B2-ACC8-F8F3B6F7A0B3</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">C8E15FF5-36D7-AC35-DD49-FFCB8795A1A7</Property>
 		</Item>
 		<Item Name="determine execution settings.vi" Type="VI" URL="../determine execution settings.vi"/>
 		<Item Name="test classify error.lvtest" Type="TestItem" URL="../test classify error.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test classify error.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">F288F238-F6EF-D118-D3D0-1DD566D1BEF1</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">8F1BFFA5-3FAB-D5A2-5963-9429D79E2070</Property>
 		</Item>
 		<Item Name="test classify error.vi" Type="VI" URL="../test classify error.vi"/>
 		<Item Name="test noops.lvtest" Type="TestItem" URL="../test noops.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test noops.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">94E2EE2C-D735-3A19-541E-7DE3C8D3E86E</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">E0B00656-3AE9-7F4C-CDA9-DCBDB4E372B5</Property>
 		</Item>
 		<Item Name="test noops.vi" Type="VI" URL="../test noops.vi"/>
 		<Item Name="test read timing source.lvtest" Type="TestItem" URL="../test read timing source.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test read timing source.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">3A454007-CEA0-E6A7-2EF0-B3235E8BD6CC</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">52C2338A-DFED-81A4-AEF1-75E8A75B7966</Property>
 		</Item>
 		<Item Name="test read timing source.vi" Type="VI" URL="../test read timing source.vi"/>
 	</Item>
 	<Item Name="module cfg" Type="Folder">
 		<Item Name="modcfg serialization.lvtest" Type="TestItem" URL="../modcfg serialization.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:modcfg serialization.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">21EA16A8-013D-1897-D7AD-026F6E11519A</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">0FEB7E74-4A2D-86D1-F83B-9F68F9FEE32D</Property>
 		</Item>
 		<Item Name="modcfg serialization.vi" Type="VI" URL="../modcfg serialization.vi"/>
 		<Item Name="test mod cfg noops.lvtest" Type="TestItem" URL="../test mod cfg noops.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:test mod cfg noops.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">72CC371E-BE2A-954E-AC8B-A9B9FCAE95AF</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">D188A0E8-BB03-70CE-0313-BBD3015FD4A8</Property>
 		</Item>
 		<Item Name="test mod cfg noops.vi" Type="VI" URL="../test mod cfg noops.vi"/>
 		<Item Name="testprop timing source.lvtest" Type="TestItem" URL="../testprop timing source.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:testprop timing source.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">647BAAF0-1543-DCD1-AC3C-2A71F87AF6D4</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">97AE6013-C802-FF77-A7FE-FC71C122FDF8</Property>
 		</Item>
 		<Item Name="testprop timing source.vi" Type="VI" URL="../testprop timing source.vi"/>
 		<Item Name="testprops mod cfg.vi" Type="VI" URL="../testprops mod cfg.vi"/>
 		<Item Name="validate mod cfg.lvtest" Type="TestItem" URL="../validate mod cfg.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:validate mod cfg.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">3C98512E-09FD-0056-569A-8D32101086F6</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">24B35B55-6317-71F2-52A6-8DD498394E0D</Property>
 		</Item>
 		<Item Name="validate mod cfg.vi" Type="VI" URL="../validate mod cfg.vi"/>
 	</Item>
 	<Item Name="Root Cfg" Type="Folder">
 		<Item Name="proptest_supportedtargets.lvtest" Type="TestItem" URL="../proptest_supportedtargets.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:proptest_supportedtargets.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">199A66C7-181C-9628-795C-50B25681515F</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">56CD0429-04F9-C2FA-80DA-C98A5392AA46</Property>
 		</Item>
 		<Item Name="proptest_supportedtargets.vi" Type="VI" URL="../proptest_supportedtargets.vi"/>
 		<Item Name="serialization test.lvtest" Type="TestItem" URL="../serialization test.lvtest">
 			<Property Name="utf.test.bind" Type="Str">TBM Tests.lvlib:serialization test.vi</Property>
-			<Property Name="utf.vector.test.bind" Type="Str">97CE1EAE-4E0A-2498-2FB1-141BB592830D</Property>
+			<Property Name="utf.vector.test.bind" Type="Str">83177B1A-2EA7-1455-D04A-38BFD4E1F4CA</Property>
 		</Item>
 		<Item Name="serialization test.vi" Type="VI" URL="../serialization test.vi"/>
 	</Item>
