@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2017-04-26 15:33:12" Creator="Daniel" Comments="" ID="17d02a2d90af40f694413d6997206a2a">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-06-05 18:27:41" Modified_Date="2017-04-26 15:41:52" Creator="Daniel" Comments="" ID="4421bea3446d5d5559e2ae4eeffa6a57">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_module_interface</Package_File_Name>
-    <Library_Version>2.3.0.1</Library_Version>
+    <Library_Version>2.3.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\module interface</Library_Output_Folder>
@@ -303,7 +303,7 @@
         <Path>root configuration</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>26283A7FF86AEE99AF925D29901F181C</GUID>
+      <GUID>E9718E6AC201F250CAE7C032E4C720B9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -436,7 +436,7 @@
         <Path>channel\from string.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6594BE91446BEBE3EB69B0A8D4426182</GUID>
+      <GUID>1837A067E40B642A6C9877EB2A24416E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -611,7 +611,7 @@
         <Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>967CC915659477F078363B81EBEFA190</GUID>
+      <GUID>51D4FA4F75548449FFD6F4601FBE4C83</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -786,7 +786,7 @@
         <Path>channel\list available classifications.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>576FE8406A421045998DBD5F21AAA493</GUID>
+      <GUID>03795670067598CD3F4654C3118E43CD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -821,7 +821,7 @@
         <Path>&lt;vi.lib&gt;\NI\Tag Bus\tag\find tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>158DDAA052C17BED5E755D4ABE24303C</GUID>
+      <GUID>AE970BFA979F9CFAD372C5AF9EDC58FF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1024,7 +1024,7 @@
         <Path>runtime\write module trace msg.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>12182AC88FD5037A02FA2BB13ADD728C</GUID>
+      <GUID>15AF28E8D1F8A70C9037D79C91ACA5DC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1045,7 +1045,7 @@
         <Synchronyze_with_Directory>true</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>..\..\..\Program Files (x86)\National Instruments\LabVIEW 2013\vi.lib\NI\Tag Bus\table</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>54C22850C6F726E9786A50126F33B825</GUID>
+      <GUID>5BC6FFE8934BF1F6364A5EFA49625FE3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1276,7 +1276,7 @@
         <Path>module configuration\throw configuration load error.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B0345F80B975BC23684FCE51B0A2E1EC</GUID>
+      <GUID>A68E6260AEFAB3744646D6B47618F3C4</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
