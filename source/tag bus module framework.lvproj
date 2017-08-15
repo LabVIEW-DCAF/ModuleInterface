@@ -105,7 +105,6 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="write syslog.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Syslog Wrapper - Linux/write syslog.vi"/>
 			</Item>
-			<Item Name="FindDuplicate.vi" Type="VI" URL="../../../../Program Files (x86)/National Instruments/LabVIEW 2014/ProjectTemplates/Source/dcaf configurable plugin module/user control module/scripting/FindDuplicate.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
