@@ -29,6 +29,12 @@ The runtime object for the specified configuration is not supported on this targ
 <nierror code="538308">
 Unsupported target
 </nierror>
+<nierror code="538309">
+Could not delete line.
+</nierror>
+<nierror code="538310">
+Line with this name already exists.
+</nierror>
 <nierror code="538311">
 That property is already set
 </nierror>
